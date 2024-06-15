@@ -20,10 +20,6 @@
 <p align="left">I'm a beginner backend developer. My journey into the world of development began in 2022. Then I went to college and began to actively study a programming language like C#. Having mastered the syntax and various patterns, I moved on to studying web development. During this period I studied the front end. After studying it for about two months, I learned about such a direction as data science. I didn't study it for long. In my profile there is a repository with my first neural network, which can detect handwritten numbers :)
 I ended up trying backend development and really liked it. At the moment I'm working with a framework like Django</p>
 
-<p align="center">
- <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/07893f8d084b96e016a44aa33e7848bc3d28109b/assets/github-snake.svg" alt="snake"/>
-</p>
-
 <h3 align="left">🛠 My stack a technologies:</h3>
 
 <div align="left">
