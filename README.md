@@ -45,9 +45,19 @@ I ended up trying backend development and really liked it. At the moment I'm wor
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DEV-m1k0&theme=discord&column=4&rank=B&rank=C&rank=A&rank=S&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">🔥   My statistics :</h3>
+<div align="center">
+  <h2>🔥My statistics🔥</h2>
+</div>
+
+<h3>Codewars:</h3>
 
 ![Codewars](https://github.r2v.ch/codewars?user=NothingToC&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
+<h3>LeetCode:</h3>
+
+![](https://leetcard.jacoblin.cool/DEV-m1k0?ext=activity&theme=dark)
+
+<h3>GitHub:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dev-m1k0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
