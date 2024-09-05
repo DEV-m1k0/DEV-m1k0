@@ -6,15 +6,6 @@
 
 <h1 align="center">Hello👋 My name is Anton!</h1>
 
-<div align="center">
-  <a href="https://vk.com/dzh_zus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/m1ko_chanel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
 <h3 align="left">👨‍💻  About me</h3>
 
 <p align="left">I'm a beginner backend developer. My journey into the world of development began in 2022. Then I went to college and began to actively study a programming language like C#. Having mastered the syntax and various patterns, I moved on to studying web development. During this period I studied the front end. After studying it for about two months, I learned about such a direction as data science. I didn't study it for long. In my profile there is a repository with my first neural network, which can detect handwritten numbers :)
