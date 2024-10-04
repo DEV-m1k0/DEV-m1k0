@@ -6,12 +6,14 @@
 
 <h1 align="center">Hello👋 My name is Anton!</h1>
 
-<h3 align="left">👨‍💻  About me</h3>
+<img height="20"/>
+<h2 align="left"">👨‍💻  About me:</h2>
 
 <p align="left">I'm a beginner backend developer. My journey into the world of development began in 2022. Then I went to college and began to actively study a programming language like C#. Having mastered the syntax and various patterns, I moved on to studying web development. During this period I studied the front end. After studying it for about two months, I learned about such a direction as data science. I didn't study it for long. In my profile there is a repository with my first neural network, which can detect handwritten numbers :)
 I ended up trying backend development and really liked it. At the moment I'm working with a framework like Django</p>
 
-<h3 align="left">🛠 My stack a technologies:</h3>
+<img height="20"/>
+<h2 align="left">🛠 My stack of technologies:</h2>
 
 <div align="left">
   <img width="12" />
@@ -36,10 +38,12 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <img src="https://github.com/user-attachments/assets/01daf9c5-7262-4fc6-9d89-a3d1660ab141" height="40"/>
 </div>
 
-<h3 align="left">🏆 GitHub Trophies: </h3>
+<img height="20"/>
+<h2 align="left">🏆 GitHub Trophies: </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DEV-m1k0&theme=discord&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img height="20"/>
 <div align="center">
   <h2>🔥My statistics🔥</h2>
 </div>
