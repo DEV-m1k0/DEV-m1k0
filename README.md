@@ -23,6 +23,8 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://blog.getbootstrap.com/assets/brand/bootstrap-logo-shadow@2x.png" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
@@ -30,11 +32,13 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png" height="40" alt="MySql logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/01daf9c5-7262-4fc6-9d89-a3d1660ab141" height="40"/>
 </div>
 
 <h3 align="left">🏆 GitHub Trophies: </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DEV-m1k0&theme=discord&column=4&rank=B&rank=C&rank=A&rank=S&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DEV-m1k0&theme=discord&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <h2>🔥My statistics🔥</h2>
