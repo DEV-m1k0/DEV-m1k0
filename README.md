@@ -36,6 +36,8 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png" height="40" alt="MySql logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/01daf9c5-7262-4fc6-9d89-a3d1660ab141" height="40"/>
+  <img width="12" />
+  <img src="https://ashnik.com/wp-content/uploads/2021/02/Kafka-logow.png" height="40"/>
 </div>
 
 <img height="20"/>
