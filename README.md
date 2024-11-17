@@ -50,6 +50,7 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <h2>🔥My statistics🔥</h2>
 </div>
 
+
 <h3>Codewars:</h3>
 
 ![Codewars](https://github.r2v.ch/codewars?user=NothingToC&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
