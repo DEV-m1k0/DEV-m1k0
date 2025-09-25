@@ -56,6 +56,7 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <h2>🔥My statistics🔥</h2>
 </div>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEV-m1k0&theme=github_dark" alt=""/>
 
 <h3>Codewars:</h3>
 
