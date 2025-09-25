@@ -56,8 +56,6 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <h2>🔥My statistics🔥</h2>
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEV-m1k0&theme=github_dark" alt=""/>
-
 <h3>Codewars:</h3>
 
 ![Codewars](https://github.r2v.ch/codewars?user=NothingToC&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
@@ -76,4 +74,8 @@ I ended up trying backend development and really liked it. At the moment I'm wor
   <img src="https://github-readme-stats.vercel.app/api?username=dev-m1k0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-m1k0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEV-m1k0&theme=github_dark" alt=""/>
 </div>
